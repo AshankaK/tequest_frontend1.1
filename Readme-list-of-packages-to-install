@@ -1,0 +1,17 @@
+The following packages and softwares need to be installed on the system that you intend to download and run this site (pages)
+
+	•	cd into the folder
+	⁃	Download and install git
+	⁃		.	git init
+	⁃	Download and install Nodejs from https://nodejs.org/en/download/ OR your can Download and install npm
+	⁃	enter npm install
+	⁃	enter npm run start-dev
+	⁃	install any other npm dependencies you wish 
+	⁃	Install express
+	⁃	npm express
+	⁃	Download and install Material-ui
+	⁃	npm install @material-ui/core
+
+This should be all to create a node_modules folder with all the necessary packages needed to run the site.
+
+
